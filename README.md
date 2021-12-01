@@ -1,7 +1,7 @@
 # rpfpy
 multiple iterations looking for the best way to write reversible point-free python
 
-(links are to YouTube https://youtu.be/xrbyC4ZTL4E where I put the "voice over" description of these code snippets)
+(links are to YouTube https://youtu.be/xrbyC4ZTL4E where I put the "voice over" description of these code snippets. Blog entry is here https://equational.blogspot.com/2021/12/point-free-reversible-python.html).
 
 1) Create a function that swaps positional and keyword arguments. Swapping is reversable. https://youtu.be/xrbyC4ZTL4E?t=72
 2) Use eval and lambda to generate a reversable function that swaps position and keyword arguments. https://youtu.be/xrbyC4ZTL4E?t=321
