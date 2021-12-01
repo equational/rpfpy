@@ -7,4 +7,4 @@ multiple iterations looking for the best way to write reversible point-free pyth
 5) Small interlude: let's add some methods to reverse functions (complementary).
 6) Focusing on the data objects and make the reversable callable objects from these.
 7) First go at replacing local functions with tail continuation.
-8) It is Python, point-free, composable, reversible, and we can tier interpretation with multiple levels of tail continuation.
+8) It is Python, point-free, composable, reversible, and we can do interpretation by tier with multiple levels of tail continuation.
