@@ -11,6 +11,7 @@ multiple iterations looking for the best way to write reversible point-free pyth
 6) Focusing on the data objects and make the reversable callable objects from these. https://youtu.be/xrbyC4ZTL4E?t=1658
 7) First go at replacing local functions with tail continuation. https://youtu.be/xrbyC4ZTL4E?t=1771
 8) It is Python, point-free, composable, reversible, and we can do interpretation by tier with multiple levels of tail continuation. https://youtu.be/xrbyC4ZTL4E?t=2290
+9) Laziness as a wrapper and its evaluation (reduce).  
 
 Some closing remarks:
     https://youtu.be/xrbyC4ZTL4E?t=2865
